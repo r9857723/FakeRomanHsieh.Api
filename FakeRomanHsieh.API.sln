@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeRomanHsieh.API", "FakeRomanHsieh.API.csproj", "{1E4F9A44-EE75-4148-8F0E-4B9730A2B0AD}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1C95FA06-02AD-42C2-B1EE-180C58E58621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4F9A44-EE75-4148-8F0E-4B9730A2B0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4F9A44-EE75-4148-8F0E-4B9730A2B0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4F9A44-EE75-4148-8F0E-4B9730A2B0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4F9A44-EE75-4148-8F0E-4B9730A2B0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C95FA06-02AD-42C2-B1EE-180C58E58621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C95FA06-02AD-42C2-B1EE-180C58E58621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C95FA06-02AD-42C2-B1EE-180C58E58621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C95FA06-02AD-42C2-B1EE-180C58E58621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2516FDA0-AFAD-46CB-B767-E2EB911BB401}
+	EndGlobalSection
+EndGlobal
